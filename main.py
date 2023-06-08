@@ -8,6 +8,10 @@ class Main:
 
     def run(self):
         print('x')
+        print('A')
+        print('B')
+        print('c')
+        print('D')
         print(self._context)
 
 
