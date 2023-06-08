@@ -4,6 +4,7 @@ class Main:
         pass
 
     def run(self):
+        print('A')
         print(self._context)
 
 
