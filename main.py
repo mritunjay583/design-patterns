@@ -7,6 +7,7 @@ class Main:
         pass
 
     def run(self):
+        print('x')
         print(self._context)
 
 
