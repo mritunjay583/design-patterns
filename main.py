@@ -5,6 +5,7 @@ class Main:
 
     def run(self):
         print('A')
+        print('B')
         print(self._context)
 
 
