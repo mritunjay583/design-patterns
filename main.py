@@ -3,6 +3,7 @@ class Main:
         self._context = 'this is main'
         print('a')
         print('b')
+        print('c')
         pass
 
     def run(self):
