@@ -2,6 +2,7 @@ class Main:
     def __init__(self):
         self._context = 'this is main'
         print('a')
+        print('b')
         pass
 
     def run(self):
