@@ -7,6 +7,7 @@ class Main:
         print('A')
         print('B')
         print('c')
+        print('D')
         print(self._context)
 
 
